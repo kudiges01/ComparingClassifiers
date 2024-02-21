@@ -1,5 +1,5 @@
 # ComparingClassifiers
-This repository contains an analysis of various classification techniques (Logisitics regression, Decision trees, Support Vector machines and K nearest neighbours) applied on marketing campaign dataset by a bank to predict whether or not the customer will subscribe to a term deposit.
+This repository contains an analysis of various classification techniques (Logistics regression, Decision trees, Support Vector machines and K nearest neighbours) applied on marketing campaign dataset by a bank to predict whether or not the customer will subscribe to a term deposit.
 
 Technologies Used
 
